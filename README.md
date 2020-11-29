@@ -5,7 +5,7 @@ git clone [repository url]
 cd [local repository]
 
 //Step 2:
-create .env.local file here with these properties
+create .env.local file in the React-Firebase-Auth folder with these properties
 
 REACT_APP_FIREBASE_API_KEY=
 REACT_APP_FIREBASE_AUTH_DOMAIN=
