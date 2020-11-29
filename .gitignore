@@ -1,0 +1,23 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/React-Firebase-Auth/node_modules
+/React-Firebase-Auth/.pnp
+/React-Firebase-Auth/.pnp.js
+
+# testing
+/React-Firebase-Auth/coverage
+
+# production
+/React-Firebase-Auth/build
+
+# misc
+/React-Firebase-Auth/.DS_Store
+/React-Firebase-Auth/.env.local
+/React-Firebase-Auth/.env.development.local
+/React-Firebase-Auth/.env.test.local
+/React-Firebase-Auth/.env.production.local
+
+/React-Firebase-Auth/npm-debug.log*
+/React-Firebase-Auth/yarn-debug.log*
+/React-Firebase-Auth/yarn-error.log*
